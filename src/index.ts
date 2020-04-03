@@ -1,6 +1,3 @@
-window.alert('Klicke auf OK um zu Starten!');
-
-
 import { Scene, Types, CANVAS, Game, GameObjects } from 'phaser';
 
 /** Possible movement directions */
